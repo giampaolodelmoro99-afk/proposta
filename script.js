@@ -30,5 +30,5 @@ btnYes.addEventListener('click', () => {
     btnYes.style.transform = 'scale(1.3)';
     btnYes.disabled = true;
 
-    button.textContent = "Grazie per il tuo tempo 🥹🥹🥹"
+    button.textContent = "🥹🥹🥹"
 });
